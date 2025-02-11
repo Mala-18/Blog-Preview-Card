@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.main-div{
+    background-color: hsl(0, 0%, 100%);
+    border: 1px solid black;
+    width: 300px;
+    height: 400px;
+    margin: 100px 500px 0px 500px;
+    border-radius: 5%;
+    box-shadow: 5px 5px;
+}
+
+.card{
+    margin: 0px 20px 10px 20px;
+}
+
+svg{
+    width: 260px;
+    height: 200px;
+    border-radius: 11%;
+}
+
+.btn-clone{
+    background-color:  hsl(47, 88%, 63%);
+    width: 55px;
+    border-radius: 5%;
+    padding: 5px 7px;
+    font-size: small;
+    font-weight: bold;
+}
+
+h5{
+    margin: 5px 0px 5px 0px;
+    font-weight: lighter;
+}
+
+h3{
+    margin: 7px 0px 7px 0px;
+}
+
+.content{
+    color: hsl(0, 0%, 42%);
+    font-weight: normal;
+    font-size: small;
+    line-height: 0.2in;
+}
+
+.avatar-username{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 23px;
+    height: 24px;
+    margin: 2px;
+}
+
+.username{
+    margin:2px;
+    padding: 4px;
+    font-size: small;
+    font-weight: bold;
+}
